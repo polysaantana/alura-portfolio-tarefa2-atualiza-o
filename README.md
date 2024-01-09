@@ -14,7 +14,7 @@ Desenvolvimento web visualização em desktop.
 https://polysaantana.github.io/alura-portfolio-tarefa1/
 
 ## Conheça o aplicativo clicando no link do projeto atual
-https://polysaantana.github.io/alura-portfolio-tarefa1/
+https://polysaantana.github.io/alura-portfolio-tarefa2-atualiza-o/
 
 
 <div align="center">
